@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fightgame/static/css/main.911da707.chunk.css",
+    "main.css": "/fightgame/static/css/main.ff058235.chunk.css",
     "main.js": "/fightgame/static/js/main.096f7451.chunk.js",
     "main.js.map": "/fightgame/static/js/main.096f7451.chunk.js.map",
     "runtime-main.js": "/fightgame/static/js/runtime-main.44264491.js",
@@ -10,13 +10,13 @@
     "static/js/3.23b4f18c.chunk.js": "/fightgame/static/js/3.23b4f18c.chunk.js",
     "static/js/3.23b4f18c.chunk.js.map": "/fightgame/static/js/3.23b4f18c.chunk.js.map",
     "index.html": "/fightgame/index.html",
-    "static/css/main.911da707.chunk.css.map": "/fightgame/static/css/main.911da707.chunk.css.map",
+    "static/css/main.ff058235.chunk.css.map": "/fightgame/static/css/main.ff058235.chunk.css.map",
     "static/js/2.7db163d5.chunk.js.LICENSE.txt": "/fightgame/static/js/2.7db163d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.44264491.js",
     "static/js/2.7db163d5.chunk.js",
-    "static/css/main.911da707.chunk.css",
+    "static/css/main.ff058235.chunk.css",
     "static/js/main.096f7451.chunk.js"
   ]
 }
