@@ -55,6 +55,7 @@
   margin: 10px;
   padding: 10px;
   cursor: pointer;
+  z-index: 1;
   position: relative;
 }
 
@@ -77,10 +78,11 @@
 }
 
 .attackIcon::after, .defenseIcon::after{
-  content: "";
+  content: " ";
   width: 100%;
   height: 100%;
   left: 0;
   top: 0;
   position: absolute;
+  z-index: 999;
 }
